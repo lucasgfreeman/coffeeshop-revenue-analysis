@@ -21,7 +21,7 @@ The goal is to identify which variables most strongly influence daily revenue an
 
 ### 1. Correlation Analysis
 
-- A correlation heatmap was created to assess linear relationships among all features.
+- A correlation heatmap was created to assess linear relationships among all variables.
 - Only correlations with |r| > 0.1 were highlighted as potentially meaningful for exploration, while smaller correlations were considered negligible.
 
 **Key findings:**
