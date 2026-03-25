@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project analyzes a dataset of daily coffee shop operations to understand the main drivers of daily revenue. The dataset contains **2,000 observations** and **7 variables** including:
+This project analyzes a dataset of daily coffee shop operations to understand the main drivers of daily revenue. The dataset contains **2,000 observations** of **7 variables** including:
+
 
 - Number of customers per day
 - Average order value
@@ -12,7 +13,7 @@ This project analyzes a dataset of daily coffee shop operations to understand th
 - Location foot traffic
 - Daily revenue
 
-The goal is to identify which variables most strongly influence daily revenue and quantify their impact using regression.
+The goal is to identify which variables most strongly influence daily revenue and quantify their impact using a regression analysis.
 
 * * *
 
