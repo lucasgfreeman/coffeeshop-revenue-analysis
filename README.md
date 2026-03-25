@@ -22,12 +22,12 @@ The goal is to identify which variables most strongly influence daily revenue an
 ### 1. Correlation Analysis
 
 - A correlation heatmap was created to assess linear relationships among all variables.
-- Only correlations with |r| > 0.1 were highlighted as potentially meaningful for exploration, while smaller correlations were considered negligible.
+- Only correlations with |*r*| > 0.1 were highlighted as potentially meaningful for exploration, while smaller correlations were considered negligible.
 
 **Key findings:**
 
-- `Number_of_Customers_Per_Day` (r ≈ 0.736) and `Average_Order_Value` (r ≈ 0.536) are strong predictors of revenue.
-- `Marketing_Spend_Per_Day` (r ≈ 0.255) is weaker, but still above the threshold.
+- `Number_of_Customers_Per_Day` (*r* ≈ 0.736) and `Average_Order_Value` (*r* ≈ 0.536) are strong predictors of revenue.
+- `Marketing_Spend_Per_Day` (*r* ≈ 0.255) is weaker, but still above the threshold.
 - All other variables have correlations far below |0.1| and are unlikely to meaningfully improve revenue predictions.
 
 ### 2. Scatterplots & Regression Lines
